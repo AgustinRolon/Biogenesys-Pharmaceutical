@@ -1,5 +1,9 @@
 # 🌟 Expansión Estratégica de Laboratorios para Investigación y Vacunación de COVID-19 🌟
 
+<p align="center">
+  <img src="https://i.imgur.com/GUh7Epx.png" width="600" height="400" alt="Logo-Proyecto"/>
+</p>
+
 ## 📜 Introducción
 
 BIOGENESYS Pharmaceutical busca identificar las ubicaciones óptimas para expandir sus laboratorios enfocados en la investigación y vacunación contra el COVID-19. El objetivo es mejorar la respuesta a la pandemia y facilitar el acceso a las vacunas.
